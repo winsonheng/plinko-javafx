@@ -1,4 +1,7 @@
 .metadata
+build/
+bin/
+build.fxbuild
 local.properties
 .settings/
 # Eclipse Core
